@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Venkatesh Maradi</h1>
 <h3 align="center">I am an Embedded Systems Engineer with a strong foundation in test automation, embedded programming, and automotive systems. Currently, I am working at Harman International as an Automation Intern, where I design and implement CI/CD pipelines and automate test cases for the Volvo automotive team. My work focuses on improving testing efficiency, reliability, and coverage using tools like Pytest and Jenkins, while also strengthening my skills in Python and Linux.</h3>
 
-- 🔭 I’m currently working on **Automating Test Cases for Volvo Automotive Systems Using Pytest and Jenkins to orchestrate L1, L2, and L3 test executions for daily builds, improving efficiency and reliability. Developing and Maintaining CI/CD Pipelines Enhancing testing processes with robust automation frameworks and generating insightful reports to drive continuous improvement.**
+- 🔭 At Rayvector Technologies, I developed low-latency video systems and real-time control modules using GStreamer, ZeroMQ, and Modbus TCP. At Harman International, I work on automation frameworks and CI/CD pipelines for Volvo automotive testing, using Pytest, Jenkins, and Linux.**
 
 - 🌱 I’m currently learning **AUTOSAR and Automotive Standards to enhance my understanding of automotive software development. Real-Time Operating Systems (RTOS) for efficient task management in embedded environments. Advanced CI/CD Practices to further improve automation pipelines and testing efficiency.**
 
