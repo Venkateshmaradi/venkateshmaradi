@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **venkatesh18jcer@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lbUl0q5LRi6DufaXjY8d_yX9jCFF6Com/view?usp=sharing](https://drive.google.com/file/d/1lbUl0q5LRi6DufaXjY8d_yX9jCFF6Com/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1lbUl0q5LRi6DufaXjY8d_yX9jCFF6Com/view?usp=sharing](https://drive.google.com/file/d/1lbUl0q5LRi6DufaXjY8d_yX9jCFF6Com/view?usp=sharing)](https://drive.google.com/file/d/1UksLGfEHKI_ubSoyzjPG9dnaCdLf2p-F/view?usp=sharing)
 
 - ⚡ Fun fact **I enjoy combining my passion for technology with creativity, whether it's automating complex systems or building innovative projects**
 
